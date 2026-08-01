@@ -10,9 +10,7 @@ Currently building projects to improve my programming, problem-solving, and deve
 
 ## 🚀 Featured Projects
 
-## 👕 [Vestly - AI Digital Wardrobe Assistant](https://github.com/HithinMalga/Vestly)
-
-A smart digital wardrobe application...
+### 👗 [Vestly – AI Wardrobe Organiser](https://github.com/HithinMalga/Vestly-Wardrobe)
 
 A smart digital wardrobe application that provides AI outfit suggestions, weather-based recommendations, wardrobe management, and fashion assistance.
 
