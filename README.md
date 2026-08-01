@@ -12,6 +12,8 @@ Currently building projects to improve my programming, problem-solving, and deve
 
 ### 👗 [Vestly – AI Wardrobe Organiser](https://github.com/HithinMalga/Vestly-Wardrobe)
 
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/HithinMalga/Vestly-Wardrobe)
+
 A smart digital wardrobe application that provides AI outfit suggestions, weather-based recommendations, wardrobe management, and fashion assistance.
 
 **Tech:** HTML • CSS • JavaScript • Firebase • Google Gemini API
@@ -20,6 +22,8 @@ A smart digital wardrobe application that provides AI outfit suggestions, weathe
 
 ### 🤖 [AI Recruitment Assistant](https://github.com/HithinMalga/AI-Recruitment-Assistant)
 
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/HithinMalga/AI-Recruitment-Assistant)
+
 An NLP-based resume analysis application that helps analyze resumes, match job descriptions, identify skill gaps, and generate interview questions.
 
 **Tech:** Python • Streamlit • NLP • Sentence Transformers • spaCy
@@ -27,6 +31,8 @@ An NLP-based resume analysis application that helps analyze resumes, match job d
 ---
 
 ### 📚 [AI Student Learning Assistant](https://github.com/HithinMalga/Student-Learning-Assistant)
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/HithinMalga/Student-Learning-Assistant)
 
 An AI-powered study assistant that helps students understand PDF study materials through summaries, question answering, and AI-generated quizzes.
 
