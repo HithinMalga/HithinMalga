@@ -10,7 +10,9 @@ Currently building projects to improve my programming, problem-solving, and deve
 
 ## 🚀 Featured Projects
 
-### 👕 Vestly - AI Digital Wardrobe Assistant
+## 👕 [Vestly - AI Digital Wardrobe Assistant](https://github.com/HithinMalga/Vestly)
+
+A smart digital wardrobe application...
 
 A smart digital wardrobe application that provides AI outfit suggestions, weather-based recommendations, wardrobe management, and fashion assistance.
 
@@ -18,7 +20,7 @@ A smart digital wardrobe application that provides AI outfit suggestions, weathe
 
 ---
 
-### 🤖 AI Recruitment Assistant
+### 🤖 [AI Recruitment Assistant](https://github.com/HithinMalga/AI-Recruitment-Assistant)
 
 An NLP-based resume analysis application that helps analyze resumes, match job descriptions, identify skill gaps, and generate interview questions.
 
@@ -26,7 +28,7 @@ An NLP-based resume analysis application that helps analyze resumes, match job d
 
 ---
 
-### 📚 AI Student Learning Assistant
+### 📚 [AI Student Learning Assistant](https://github.com/HithinMalga/Student-Learning-Assistant)
 
 An AI-powered study assistant that helps students understand PDF study materials through summaries, question answering, and AI-generated quizzes.
 
